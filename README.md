@@ -59,6 +59,8 @@ Novos projetos serão adicionados ao portfólio conforme forem desenvolvidos.
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/vin%C3%ADcius-da-silva-libardi]
 
+💻 **Workana:** [https://www.workana.com/freelancer/0b6baaa0987e5ec5fa7b37dcd3b7d18b]
+
 
 ---
 
