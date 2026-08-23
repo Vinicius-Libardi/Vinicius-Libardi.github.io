@@ -318,21 +318,6 @@ h3 {
   box-shadow: var(--sombra);
 }
 
-.imagem-placeholder {
-  display: grid;
-  min-height: 21rem;
-  padding: 2rem;
-  border-right: 1px solid var(--borda);
-  color: #8491a6;
-  background:
-    linear-gradient(135deg, transparent 49.8%, rgba(110, 231, 183, 0.24) 50%, transparent 50.2%),
-    linear-gradient(45deg, transparent 49.8%, rgba(110, 231, 183, 0.12) 50%, transparent 50.2%),
-    var(--superficie-clara);
-  font-family: var(--fonte-mono);
-  font-size: 0.8rem;
-  place-items: center;
-}
-
 .projeto-conteudo {
   padding: clamp(1.6rem, 4vw, 3rem);
 }
